@@ -6,17 +6,17 @@
 
   <project name="openacademy" path="profiles/openacademy" remote="drupal_org" revision="7.x-1.x" />
 
-  <project name="panopoly_admin" path="sites/all/modules/panopoly_admin" remote="panopoly_populist" revision="master"/>
-  <project name="panopoly_core" path="sites/all/modules/panopoly_core" remote="panopoly_populist" revision="master"/>
-  <project name="panopoly_demo" path="sites/all/modules/panopoly_demo" remote="panopoly_populist" revision="master"/>
-  <project name="panopoly_images" path="sites/all/modules/panopoly_images" remote="panopoly_populist" revision="master"/>
-  <project name="panopoly_magic" path="sites/all/modules/panopoly_magic" remote="panopoly_populist" revision="master"/>
-  <project name="panopoly_pages" path="sites/all/modules/panopoly_pages" remote="panopoly_populist" revision="master"/>
-  <project name="panopoly_search" path="sites/all/modules/panopoly_search" remote="panopoly_populist" revision="master"/>
-  <project name="panopoly_theme" path="sites/all/modules/panopoly_theme" remote="panopoly_populist" revision="master"/>
-  <project name="panopoly_users" path="sites/all/modules/panopoly_users" remote="panopoly_populist" revision="master"/>
-  <project name="panopoly_widgets" path="sites/all/modules/panopoly_widgets" remote="panopoly_populist" revision="master"/>
-  <project name="panopoly_wysiwyg" path="sites/all/modules/panopoly_wysiwyg" remote="panopoly_populist" revision="master"/>
+  <project name="panopoly_admin" path="sites/all/modules/panopoly_admin" remote="drupal_org" revision="7.x-1.x"/>
+  <project name="panopoly_core" path="sites/all/modules/panopoly_core" remote="drupal_org" revision="7.x-1.x"/>
+  <project name="panopoly_demo" path="sites/all/modules/panopoly_demo" remote="drupal_org" revision="7.x-1.x"/>
+  <project name="panopoly_images" path="sites/all/modules/panopoly_images" remote="drupal_org" revision="7.x-1.x"/>
+  <project name="panopoly_magic" path="sites/all/modules/panopoly_magic" remote="drupal_org" revision="7.x-1.x"/>
+  <project name="panopoly_pages" path="sites/all/modules/panopoly_pages" remote="drupal_org" revision="7.x-1.x"/>
+  <project name="panopoly_search" path="sites/all/modules/panopoly_search" remote="drupal_org" revision="7.x-1.x"/>
+  <project name="panopoly_theme" path="sites/all/modules/panopoly_theme" remote="drupal_org" revision="7.x-1.x"/>
+  <project name="panopoly_users" path="sites/all/modules/panopoly_users" remote="drupal_org" revision="7.x-1.x"/>
+  <project name="panopoly_widgets" path="sites/all/modules/panopoly_widgets" remote="drupal_org" revision="7.x-1.x"/>
+  <project name="panopoly_wysiwyg" path="sites/all/modules/panopoly_wysiwyg" remote="drupal_org" revision="7.x-1.x"/>
 
   <project name="openacademy_core" path="sites/all/modules/openacademy_core" remote="openacademy_chapterthree" revision="master" />
   <project name="openacademy_news" path="sites/all/modules/openacademy_news" remote="openacademy_chapterthree" revision="master" />
